@@ -18,7 +18,7 @@ spec:
         app: flaskdemo
     spec:
       containers:
-        - image: pilsu/cicd:1
+        - image: pilsu/cicd:2
           name: flaskdemo
           resources: {}
 status: {}
